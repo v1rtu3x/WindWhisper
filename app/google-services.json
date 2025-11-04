@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413233696567",
+    "project_id": "windwhisper-5d43a",
+    "storage_bucket": "windwhisper-5d43a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413233696567:android:dd95e7fa40a753889114b2",
+        "android_client_info": {
+          "package_name": "com.example.windwhisper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjMP0BZXbSExmxjVofN4XKt8Hqxxur9X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
